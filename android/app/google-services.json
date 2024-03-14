@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445520541766",
+    "project_id": "auth-email-681fb",
+    "storage_bucket": "auth-email-681fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445520541766:android:2eaad8f279aa5751483247",
+        "android_client_info": {
+          "package_name": "com.example.email_login_logout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKPu9jlzUwF7dOmQWER1O1zcVDICU4Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
